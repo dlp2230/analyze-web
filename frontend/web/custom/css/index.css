@@ -1,0 +1,56 @@
+
+.block {
+    position: relative;
+    margin: 10px 10px;
+}
+
+.word {
+    line-height: 35px;
+    padding: 100px 0px;
+    font-size: 18px;
+    color: #861f17;
+}
+
+.word p {
+
+}
+
+.word_box1 {
+    position: relative;
+    float: right;
+    width: 28%;
+}
+
+.img_box1 {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    float: left;
+}
+
+.word_box2 {
+    position: relative;
+    float: left;
+    width: 30%;
+}
+
+.img_box2 {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    float: left;
+}
+
+.game_pic {
+    position: relative;
+    border-top: 2px solid #861f17;
+    border-bottom: 2px solid #861f17;
+}
+
+.game_pic li {
+    float: left;
+    margin: 5px 22px;
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+}
